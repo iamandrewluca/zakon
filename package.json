@@ -8,9 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "evergreen-ui": "^4.28.0",
     "http-proxy": "^1.18.1",
     "next": "9.4.4",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "use-sound": "^1.0.2"
   }
 }
